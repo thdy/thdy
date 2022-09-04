@@ -30,4 +30,7 @@
 - [Intuneで配布したスクリプトの実行結果をSlackに通知する](https://zenn.dev/thdy/articles/post_intune_script_results_in_slack_workflow)
 - [macOS Monterey 12.3 にしたら `code .` で VSCode を起動できなくなった問題の対処](https://zenn.dev/thdy/articles/fix-vscode-issues-in-monterey)
 - [Microsoft Graph API経由でMicrosoft 365のライセンスを付与する](https://zenn.dev/thdy/articles/assign_m365_license_with_graph_api)
+- [OktaをIdPとしてAzure ADとのフェデレーションを構成する](https://zenn.dev/thdy/articles/okta_azuread_integrations)
+- [Intune から配布したスクリプトの実行結果を Graph API で取得する](https://zenn.dev/thdy/articles/get_results_intune_script_execution)
+- [Azure AD Join &amp; Intune 環境のキッティングとライセンスの考え方メモ](https://zenn.dev/thdy/articles/010beeb20a96fb195174)
 <!-- BLOG-POST-LIST:END -->

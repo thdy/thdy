@@ -16,6 +16,10 @@
 - 📄 Know about my experiences [https://www.resume.id/thdy](https://www.resume.id/thdy)
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuneに登録されたスクリプトの内容をGraph Explorerで確認する](https://zenn.dev/thdy/articles/download_scripts_in_intune_with_graph_explorer)
+- [Intuneで配布したスクリプトの実行結果をSlackに通知する](https://zenn.dev/thdy/articles/post_intune_script_results_in_slack_workflow)
+- [macOS Monterey 12.3 にしたら `code .` で VSCode を起動できなくなった問題の対処](https://zenn.dev/thdy/articles/fix-vscode-issues-in-monterey)
+- [Microsoft Graph API経由でMicrosoft 365のライセンスを付与する](https://zenn.dev/thdy/articles/assign_m365_license_with_graph_api)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

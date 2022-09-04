@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi, there
 <p align="left"> <a href="https://twitter.com/thdy_jp" target="blank"><img src="https://img.shields.io/twitter/follow/thdy_jp?logo=twitter&style=flat" alt="thdy_jp" /></a> 
   <a href="https://zenn.dev/thdy">
     <img src="https://zenn.badge.nikaera.com/s/thdy/likes?style=flat" alt="thdy likes" />

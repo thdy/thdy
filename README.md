@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [hey, Inc.](https://www.hey.jp/)
+- 🔭 I’m currently working on [STORES, Inc.](https://www.st.inc/)
 
 - 🌱 I’m currently learning **Enterprise Security, Business Automation**
 

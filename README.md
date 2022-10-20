@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [STORES, Inc.](https://www.st.inc/)
 
-- 🌱 I’m currently learning **Enterprise Security, Business Automation**
+- 🌱 I’m currently learning Enterprise Security, Business Automation
 
 - 👯 I’m organizing [Japan Okta User Group](https://okta.connpass.com/)
 
